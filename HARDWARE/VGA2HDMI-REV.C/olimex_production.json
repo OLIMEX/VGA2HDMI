@@ -1,0 +1,13 @@
+{
+    "origin": "BL",
+    "useExcludeFromBOM": true,
+    "useExcludeFromPOS": true,
+    "detectNA": true,
+    "variantProperty": null,
+    "variant": null,
+    "includeNone": false,
+    "exportBOM": true,
+    "exportPOS": true,
+    "exportJSON": true,
+    "exportExcluded": true
+}
